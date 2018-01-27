@@ -1,0 +1,10 @@
+const ActionTypes = {
+    ADDTODO: 'ADDTODO',
+    DELETETODO: 'DELETETODO',
+    EDITTODO: 'EDITTODO',
+    VIEWTODOS: 'VIEWTODOS',
+    UPDATETODOS: "UPDATETODOS",
+    GETKEYS: 'GETKEYS'
+}
+
+export default ActionTypes;
